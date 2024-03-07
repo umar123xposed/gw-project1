@@ -1,0 +1,15 @@
+
+  .container::before {
+    content: "";
+    background: url('https://demos.creative-tim.com/material-kit-react/static/media/bg-presentation.88963029.jpg') center top / cover transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50%;
+    z-index: -1; 
+  }
+
+  .color{
+    color: white
+  }
