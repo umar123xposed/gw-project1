@@ -72,7 +72,7 @@ const Footer = () => {
 
 
 
-                <div className="text-center p-3">
+                <div className="bg-dark-subtle text-center p-3">
                     © 2024 Copyright:
                     <span className="text-body">Umar hussain</span>
                 </div>
